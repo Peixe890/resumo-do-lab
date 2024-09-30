@@ -18,4 +18,9 @@ recursos mais flexíveis e economias de escala
 
 🍉- Νuvem Privada: Organizações têm controle total sobre os recursos e a segurança determinando quem entra e sai no datacenter, além das organizações serem responsáveis pela manutenção e pelas atualizações de hardware e software
 
-🍉- Νuvem Híbrida: Organizações determinam onde executar os aplicativos, controlam a segurança, a conformidade e os requisitos legais
+🍉- Νuvem Híbrida: Organizações determinam onde executar os aplicativos, controlam a segurança, a conformidade e os requisitos legais, e maior flexibilidade
+
+• CapEx e OpEx:
+
+🧶 - Despesas de Capital (CapEx)
+

@@ -24,3 +24,7 @@ recursos mais flexíveis e economias de escala
 
 🧶 - Despesas de Capital (CapEx)
 
+🍉- Gasto inicial de dinheiro em infraestrutura física, as despesas do CapEx têm um valor que se reduz com o tempo
+
+☄
+

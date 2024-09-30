@@ -16,4 +16,4 @@ recursos mais flexíveis e economias de escala
 
 ↪ Νuvem Pública: Nenhuma despesa de capital, aplicativos podem ser provisionados e desprovisionados de forma rápida, além das organizações pagarem apenas por aquilo que utilizam
 
-↪ Νuvem Privada: Organizações têm controle total sobre os recursos e a segurança determinando quem entra e sai no datacenter
+↪ Νuvem Privada: Organizações têm controle total sobre os recursos e a segurança determinando quem entra e sai no datacenter, além das organizações serem responsáveis pela manutenção e pelas atualizações de hardware e software

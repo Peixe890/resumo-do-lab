@@ -6,7 +6,7 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 Fornecimento de serviços da computação pela Internet, habilitando inovações mais rápidas, como armazenamento, banco de dados rede e entre outros serviços oferecidos
 recursos mais flexíveis e economias de escala
 
-🎀 Νuvem Privada: Ambiente em datacenter, organizações responsáveis por operar serviços que fornecem, não fornce acesso a pessoas de fora da organização
+🎈 Νuvem Privada: Ambiente em datacenter, organizações responsáveis por operar serviços que fornecem, não fornce acesso a pessoas de fora da organização
 
 ↪ Νuvem Pública: Pertence aos serviços de nuvem ou provedor hosting, além de fornecer recursos a várias organizações e usuários, sendo acessada em uma conexão de via segura
 

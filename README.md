@@ -26,5 +26,7 @@ recursos mais flexíveis e economias de escala
 
 🍉- Gasto inicial de dinheiro em infraestrutura física, as despesas do CapEx têm um valor que se reduz com o tempo
 
-☄
+☄ - Despesas Operacionais (OpEx)
+
+🍉- Gastar com produtos e serviços conforme necessário, pagamento conforme o uso, cobrado imediatamente
 

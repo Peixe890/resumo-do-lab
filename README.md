@@ -30,4 +30,13 @@ recursos mais flexíveis e economias de escala
 
 ↪ Gastar com produtos e serviços conforme necessário, pagamento conforme o uso, cobrado imediatamente
 
+■ - Versionamento de Código
+
+↪ O versionamento de código permite que os desenvolvedores criem ramificações (branches) para trabalhar em funcionalidades ou correções separadamente, sem interferir na versão principal do projeto.
+
+▦- Git
+
+↪ O Git é um projeto de código aberto maduro e com manutenção ativa desenvolvido em 2005 por Linus Torvalds, o famoso criador do kernel do sistema operacional Linux. 
+
+↪ O GitHub é uma plataforma de desenvolvimento colaborativo que aloja projetos na nuvem utilizando o sistema de controle de versões chamado Git. A plataforma ajuda os desenvolvedores a armazenar e administrar o código e faz o registro de mudanças.
 
